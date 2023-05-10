@@ -1,8 +1,8 @@
 # DataUsageOpener
-Data usage opener for Android
+「データ使用量」を確認するためだけのショートカットアプリ
 
-[What's this?]
-  My first Android APK and create for test.
+【なにこれ】
+ 最初に作成したAndroidアプリです。
 
-[Working at...]
-  SO-04J Android 9.0 (APK XX)
+【動作確認】
+ docomo SO-04J Android 9.0 にて確認済み
